@@ -1,7 +1,6 @@
 # Antonio Leos
 ![Antonio Leos](./IMG/Antonio%20Leos.jpg)
 ## Indice
-- [Inicio](#antonio-leos).
 - [Quien soy](#quien-soy).
 - [Contacto](#contacto).
 
